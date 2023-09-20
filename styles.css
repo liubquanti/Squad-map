@@ -1,0 +1,5 @@
+.my-map-image {
+    width: 600px;
+    height: 400px;
+    background-image: url(https://maps.geoapify.com/v1/staticmap?style=osm-carto&width=600&height=400&center=lonlat:-122.304378,47.526022&zoom=14&apiKey=YOUR_API_KEY);
+  }
